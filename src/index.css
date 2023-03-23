@@ -47,6 +47,7 @@ body {
   border-radius: 6px;
   font-weight: 700;
   cursor: pointer;
+  border: none;
 }
 
 .email-btn {
