@@ -6,7 +6,7 @@ import Footer from './Footer.jsx';
 
 export default function App() {
   return (
-    <div>
+    <div className="business-card">
       <Info />
       <About />
       <Interests />
